@@ -1,5 +1,4 @@
-{
-  "movies": [
+[
     {
       "id": 1,
       "poster": "/cinema/POSTER_bsw.png",
@@ -87,4 +86,3 @@
       "images": ["/cinema/bsw1.png", "/cinema/bsw2.png", "/cinema/bsw3.png"]
     }
   ]
-}
