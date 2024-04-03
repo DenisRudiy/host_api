@@ -1,0 +1,90 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "poster": "/cinema/POSTER_bsw.png",
+      "name": "Big Small War",
+      "year": 2023,
+      "genreUkr": "Драма, Комедія",
+      "genreEng": "Drama, Comedy",
+      "directorUkr": "Мирослав Латик",
+      "directorEng": "Myroslav Latyk",
+      "producersUkr": "Оксана Іванюк , Мирослав Латик",
+      "producersEng": "Oksana Ivanyuk, Myroslav Latyk",
+      "festivals": [
+        "Lift-Off Filmmaker Sessions 2024, UK",
+        "Carpathian Mountain International Film Festival 2023, Ukraine",
+        "Varsity Film Expo 2023, Honorable Mention",
+        "KinoKolo 2023, UA Shortlisted",
+        "Longlisted for Golden Dzuga 2024"
+      ],
+      "StarsUkr": ["Наталія Половинка", "Наталія Корман", "Роман Ясиновський"],
+      "StarsEng": ["Natalia Polovynka", "Natalia Korpan", "Roman Yasynovskyi"],
+      "descriptionUkr": "Галя мала в сраці Велику війну Росії проти України. Війна за тисячу кілометрі від її села, загубленого посеред українських Карпат. Але, коли Галя дізнається, що її зять зраджує її дочці, то це вже справжня катастрофа. Тепер це її Особиста Маленька Війна в якій вона прагне не помсти а справедливості. Та коли настане кінець цій війні? Коли вона обіллє гівном зятя, коли вона відправить зятя на фронт, чи коли вона врятує Орисю від знущань чоловіка? Галя цього не знає, але вона точно знає, що треба діяти, навіть у Світі, якому Росія загрожує ядерною Війною.",
+      "descriptionEng": "Galya does not give a shit about the Great War of Russia against Ukraine. The war is a thousand kilometers away from her village, lost in the middle of the Ukrainian Carpathian Mountains. But when Galya finds out that her son-in-law is cheating on her daughter, it's a real disaster. Now this is her Personal Little War in which she seeks not revenge but justice. But when this war will come to an end? When Galya throws shit at her son-in-law, when she sends her son-in-law to the frontline, or when she saves Orisya from her husband's abuse? Galya does not know this, but she knows for sure that she needs to act, even in a world threatened by Russia with a nuclear war.",
+      "images": ["/cinema/bsw1.png", "/cinema/bsw2.png", "/cinema/bsw3.png"]
+    },
+    {
+      "id": 2,
+      "poster": "/cinema/POSTER_hal.jpeg",
+      "name": "HALEPA",
+      "year": 2019,
+      "genreUkr": "Чорна комедія, Пригоди",
+      "genreEng": "Black Comedy, Adventure",
+      "directorUkr": "Мирослав Латик",
+      "directorEng": "Myroslav Latyk",
+      "producersUkr": "none",
+      "producersEng": "none",
+      "festivals": ["none"],
+      "StarsUkr": ["Дмитро Хомяк", "Денис Ейдер", "Микита Бичков-Андрієвський"],
+      "StarsEng": ["Dmytro Homyak", "Denys Eyder", "Nikita Bychkov-Andrievskii"],
+      "descriptionUkr": "Зухвала молодіжна комедія про дрібного шахрая Хом'яка, який разом із друзями Максом та Зеником вважається головним підозрюваним у вбивстві. Слідчі мають знайти відповіді. Та серед них є «кріт» і для нього слідство — це лише прикриття для іншої операції. І коли здається, що все пропало і життя скінчилось, у Хом'яка народжується смілива ідея",
+      "descriptionEng": "A cheeky youth comedy about a small-time crook Hamster, who, along with his friends Max and Zenyk, are considered prime suspects in a murder. And when it seems that everything is lost and life is over, Hamster comes up with a bold idea.",
+      "images": ["/cinema/bsw1.png", "/cinema/bsw2.png", "/cinema/bsw3.png"]
+    },
+    {
+      "id": 3,
+      "poster": "/cinema/POSTER_kor.jpeg",
+      "name": "Kings Of Rap",
+      "year": 2021,
+      "genreUkr": "Drama, Criminal, Musical ",
+      "genreEng": "Drama, Criminal, Musical",
+      "directorUkr": "Мирослав Латик",
+      "directorEng": "Myroslav Latyk",
+      "producersUkr": "Оксана Іванюк , Мирослав Латик",
+      "producersEng": "Oksana Ivanyuk, Myroslav Latyk",
+      "festivals": [
+        "Odesa International Film Festival 2021 Nominee Golden Duke",
+        "Ukrainian Film Critics Awards 2021 Nominee Best Feature Film",
+        "Cottbus 2022"
+      ],
+      "StarsUkr": ["Михайло Дзюба", "Антон Вельбой", "Ірма Вітовська", "Карина Химчук"],
+      "StarsEng": ["Mykhailo Dziuba", "Anton Wellboy", "Irma Vitovska", "Karyna Khymchuk"],
+      "descriptionUkr": "Сімнадцятилітній випускник сільської школи – хлопець на прізвисько Казан – понад усе мріє стати відомим репером та підкорити серце своєї дівчини Свєти. Заради своїх мрій він готовий ризикнути, але обставини спрямовують його життя у іншому напрямку.",
+      "descriptionEng": "A seventeen-year-old village school graduate, a guy nicknamed Kazan, dreams of becoming a famous rapper and winning the heart of Sveta. For the sake of his dream, he is willing to risk everything, but circumstances steer his life in a different direction",
+      "images": ["/cinema/bsw1.png", "/cinema/bsw2.png", "/cinema/bsw3.png"]
+    },
+    {
+      "id": 4,
+      "poster": "/cinema/POSTER_mo.png",
+      "name": "Maksym Osa",
+      "year": 2022,
+      "genreUkr": "Історичний, Містика, Триллер",
+      "genreEng": "History, Mystery, Thriller",
+      "directorUkr": "Мирослав Латик",
+      "directorEng": "Myroslav Latyk",
+      "producersUkr": "Оксана Іванюк , Мирослав Латик",
+      "producersEng": "Oksana Ivanyuk, Myroslav Latyk",
+      "festivals": [
+        "TheFearFaireFilmFestival-2022 semifinalist",
+        "FT Sessions Official Selection 2022",
+        "KinoDzyga 2023 nomineted"
+      ],
+      "StarsUkr": ["Василь Кухарський ", "Сергій Дєньга", "Володимир Гурін", "Альбіна Корж"],
+      "StarsEng": ["Vasyliy Kukharskyj", "Sergey Denga", "Volodymyr Hurin", "Albina Korzh"],
+      "descriptionUkr": "Козака Максима Осу звинувачують у вбивстві побратимів, які везли золото на Січ. Єдиний свідок стверджує, що це справа рук чудовиська песиголовця. Довівши свою непричетність, Максим береться сам знайти вбивцю і вкрадене ним золото. Серед підозрюваних: господар маєтку, де зупинялися козаки, його молода дружина, ще молодша донька, каштелян замку і відьма-відлюдниця.",
+      "descriptionEng": "Ukraine - 1636. Someone has attacked a battalion of cossacks that were transporting the gold of the Polish king. A cossack - Maksym Osa - tries to find the missing gold, but soon becomes one of the main suspects",
+      "images": ["/cinema/bsw1.png", "/cinema/bsw2.png", "/cinema/bsw3.png"]
+    }
+  ]
+}
