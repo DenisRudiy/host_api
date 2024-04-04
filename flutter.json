@@ -1,7 +1,6 @@
-
 [
   {
-    "id": "1",
+    "id": 1,
     "poster": "/cinema/POSTER_bsw.png",
     "name": "Big Small War",
     "year": 2023,
@@ -34,10 +33,11 @@
       "/cinema/bsw1.png",
       "/cinema/bsw2.png",
       "/cinema/bsw3.png"
-    ]
+    ],
+    "trailer": "/cinema/Big_Small_War.mp4"
   },
   {
-    "id": "2",
+    "id": 2,
     "poster": "/cinema/POSTER_hal.jpeg",
     "name": "HALEPA",
     "year": 2019,
@@ -63,13 +63,14 @@
     "descriptionUkr": "Зухвала молодіжна комедія про дрібного шахрая Хом'яка, який разом із друзями Максом та Зеником вважається головним підозрюваним у вбивстві. Слідчі мають знайти відповіді. Та серед них є «кріт» і для нього слідство — це лише прикриття для іншої операції. І коли здається, що все пропало і життя скінчилось, у Хом'яка народжується смілива ідея",
     "descriptionEng": "A cheeky youth comedy about a small-time crook Hamster, who, along with his friends Max and Zenyk, are considered prime suspects in a murder. And when it seems that everything is lost and life is over, Hamster comes up with a bold idea.",
     "images": [
-      "/cinema/bsw1.png",
-      "/cinema/bsw2.png",
-      "/cinema/bsw3.png"
-    ]
+      "/cinema/hal1.jpg",
+      "/cinema/hal2.jpg",
+      "/cinema/hal3.jpg"
+    ],
+    "trailer": "/cinema/5baksiv.mp4"
   },
   {
-    "id": "3",
+    "id": 3,
     "poster": "/cinema/POSTER_kor.jpeg",
     "name": "Kings Of Rap",
     "year": 2021,
@@ -99,13 +100,14 @@
     "descriptionUkr": "Сімнадцятилітній випускник сільської школи – хлопець на прізвисько Казан – понад усе мріє стати відомим репером та підкорити серце своєї дівчини Свєти. Заради своїх мрій він готовий ризикнути, але обставини спрямовують його життя у іншому напрямку.",
     "descriptionEng": "A seventeen-year-old village school graduate, a guy nicknamed Kazan, dreams of becoming a famous rapper and winning the heart of Sveta. For the sake of his dream, he is willing to risk everything, but circumstances steer his life in a different direction",
     "images": [
-      "/cinema/bsw1.png",
-      "/cinema/bsw2.png",
-      "/cinema/bsw3.png"
-    ]
+      "/cinema/kor1.png",
+      "/cinema/kor2.png",
+      "/cinema/kor3.png"
+    ],
+    "trailer": "/cinema/KINGS_OF_RAP.mp4"
   },
   {
-    "id": "4",
+    "id": 4,
     "poster": "/cinema/POSTER_mo.png",
     "name": "Maksym Osa",
     "year": 2022,
@@ -135,9 +137,10 @@
     "descriptionUkr": "Козака Максима Осу звинувачують у вбивстві побратимів, які везли золото на Січ. Єдиний свідок стверджує, що це справа рук чудовиська песиголовця. Довівши свою непричетність, Максим береться сам знайти вбивцю і вкрадене ним золото. Серед підозрюваних: господар маєтку, де зупинялися козаки, його молода дружина, ще молодша донька, каштелян замку і відьма-відлюдниця.",
     "descriptionEng": "Ukraine - 1636. Someone has attacked a battalion of cossacks that were transporting the gold of the Polish king. A cossack - Maksym Osa - tries to find the missing gold, but soon becomes one of the main suspects",
     "images": [
-      "/cinema/bsw1.png",
-      "/cinema/bsw2.png",
-      "/cinema/bsw3.png"
-    ]
+      "/cinema/mo1.jpg",
+      "/cinema/mo2.jpg",
+      "/cinema/mo3.jpg"
+    ],
+    "trailer": "/cinema/TEASER_OSA.mp4"
   }
 ]
